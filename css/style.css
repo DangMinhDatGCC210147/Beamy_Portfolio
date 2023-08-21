@@ -43,7 +43,7 @@ body{
 	letter-spacing: 0px;
 	word-wrap: break-word;
 	font-weight: 400;
-	background-color: #fff;
+	background-color: #E3DAD5;
 	color: #6f6b80;
 }
 
@@ -333,7 +333,7 @@ h6 { font-size: 16px; }
 .dizme_tm_mobile_menu .download_cv a{
 	color: #fff !important;
 	border-radius: 50px;
-	background-color: #f75023;
+	background-color: #15126e;
 	padding: 7px 40px !important;
 }
 .dizme_tm_mobile_menu .hamburger-inner, 
